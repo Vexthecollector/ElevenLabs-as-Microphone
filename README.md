@@ -6,7 +6,7 @@ Allows you to use an Elevenlabs voice as a microphone
 2) Windows. I only got a windows PC to test these things on currently, so sadly it is only for windows. (The code is quite simple to adjust for linux though, as the only windows only requirement is VB Audio)
 
 # Installation Process
-1) Download `FullInstaller.bat`, `Installscript.bat`, `SimpleElevenLabs.py` and `Start TTS.bat`
+1) Download `FullInstaller.bat`, `Installscript.bat`, `SimpleElevenLabs.py` and `Start TTS.bat` and `piano2.wav`
 2) Run `FullInstaller.bat` AS ADMINISTRATOR. (This is because both Python and VB Audi Cable need to be installed as Administrator and saves the hiccups with that.)
 3) When the Python installation starts, select `Add Python.exe to PATH`. Once the Installer is finished, Select `Change Path Limit`.
 
