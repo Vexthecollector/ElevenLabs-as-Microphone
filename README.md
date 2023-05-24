@@ -23,3 +23,14 @@ You can now select `CABLE Output` in any software that supports a microphone and
 
 If you like this, be sure to check out https://vb-audio.com/Cable/index.htm as it is one of the backbones for this project.
 The software is donationware, so they rely on your donations to work.
+
+
+
+# What does this truly do?
+It will install Python and VB Audio Cable for you.
+Then install via pip Elevenlabs, Sounddevice, Soundfile, and Numpy
+The Start TTS.bat simply starts the python file I created.
+
+The python file connects to the Elevenlabs API. It pulls all the voices you currently have and then allows you to choose.
+Next it sets the Audio Device to be CABLE Input VB-Audio
+And finally it just plays files through that Audio device for you to be able to put that out through any available place.
