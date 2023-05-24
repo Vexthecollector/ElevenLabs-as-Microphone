@@ -1,6 +1,9 @@
 # ElevenLabs-as-Microphone
 Allows you to use an Elevenlabs voice as a microphone
 
+# Requirements
+1) An ElevenLabs subscription at the 5$ Tier or higher
+2) Windows. I only got a windows PC to test these things on currently, so sadly it is only for windows. (The code is quite simple to adjust for linux though, as the only windows only requirement is VB Audio)
 
 # Installation Process
 1) Download `FullInstaller.bat`, `Installscript.bat`, `SimpleElevenLabs.py` and `Start TTS.bat`
@@ -15,3 +18,8 @@ Replace the `Enter Key Here` with your Elevenlabs API key
 
 You are now done. Simply run `Start TTS.bat` and it should work.
 You can now select `CABLE Output` in any software that supports a microphone and start to talk through voicechat with your favorite voice!
+
+
+
+If you like this, be sure to check out https://vb-audio.com/Cable/index.htm as it is one of the backbones for this project.
+The software is donationware, so they rely on your donations to work.
