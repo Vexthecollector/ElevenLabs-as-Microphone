@@ -33,7 +33,7 @@ def Select_Audio_Output():
         except sd.PortAudioError:
             print("Looks like that did not work, please select a different output device.")
 
-set_api_key("bf34369e58ba2e9898cae9930dfe11fa")
+set_api_key("Enter Key Here")
 def Select_Voice():
     voicelist = voices()
     number=0
